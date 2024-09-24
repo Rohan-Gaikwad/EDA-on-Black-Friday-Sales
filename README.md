@@ -1,4 +1,4 @@
-Black Friday Insights: EDA on Consumer Behavior and Sales Trends
+# Black Friday Insights: EDA on Consumer Behavior and Sales Trends
 Project Overview
 This project focuses on analyzing Black Friday sales data to discover consumer behavior patterns and sales trends. By understanding key factors such as customer demographics and product preferences, retailers can enhance their marketing strategies and product placements for future Black Friday events.
 
